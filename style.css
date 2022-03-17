@@ -49,3 +49,9 @@ h2 {
 
 }
 
+.button {
+    display: flex;
+    flex-direction: column;
+
+}
+
